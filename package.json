@@ -1,0 +1,25 @@
+{
+  "name": "digital-currency-robot",
+  "version": "1.0.0",
+  "description": "Get instant crypto currency prices",
+  "keywords": [
+    "crypto",
+    "currency",
+    "prices"
+  ],
+  "homepage": "https://github.com/Mobin-Armandei/Digital-Currency-Robot#readme",
+  "bugs": {
+    "url": "https://github.com/Mobin-Armandei/Digital-Currency-Robot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mobin-Armandei/Digital-Currency-Robot.git"
+  },
+  "license": "ISC",
+  "author": "Mobin Armandei",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
